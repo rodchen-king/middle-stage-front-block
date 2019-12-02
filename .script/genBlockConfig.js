@@ -23,7 +23,7 @@ const menuData = {
   'form/step/form': '分步表单',
   'form/advanced/form': '高级表单',
   list: '列表页',
-  'list/table/list': '查询表格',
+  'list/table/list': '查询表格陈子龙',
   'list/basic/list': '标准列表',
   'list/card/list': '卡片列表',
   'list/search': '搜索列表',
