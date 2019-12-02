@@ -1,6 +1,6 @@
 const fs = require('fs');
 const { join } = require('path');
-const gitUrl = 'https://github.com/ant-design/pro-blocks';
+const gitUrl = 'https://github.com/rodchen-king/middle-stage-front-block';
 
 const menuData = {
   home: '首页',
@@ -151,7 +151,7 @@ const getFolderTreeData = filePath => {
             url: `${gitUrl}/tree/master/${fileName}`,
             path: fileName,
             features: getFeature(join(filePath, fileName)),
-            img: `https://raw.githubusercontent.com/ant-design/pro-blocks/master/${fileName}/snapshot.png?raw=true`,
+            img: `https://raw.githubusercontent.com/rodchen-king/middle-stage-front-block/master/${fileName}/snapshot.png?raw=true`,
             tags: genBlockTags(fileName),
             previewUrl: `https://preview.pro.ant.design/${genBlockName(fileName)}`,
           };
@@ -165,11 +165,11 @@ const getFolderTreeData = filePath => {
     key: 'EmptyPage',
     name: '空白页面',
     description: '一个空白的页面，一切都从这里开始！',
-    url: 'https://github.com/ant-design/pro-blocks/tree/master/EmptyPage',
+    url: 'https://github.com/rodchen-king/middle-stage-front-block/tree/master/EmptyPage',
     path: 'NewPage',
     features: ['antd'],
     img:
-      'https://raw.githubusercontent.com/ant-design/pro-blocks/master/EmptyPage/snapshot.png?raw=true',
+      'https://raw.githubusercontent.com/rodchen-king/middle-stage-front-block/master/EmptyPage/snapshot.png?raw=true',
     tags: ['空白页'],
     previewUrl: 'https://preview.pro.ant.design',
   });

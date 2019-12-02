@@ -4,7 +4,7 @@
   "description": "500 Internal Server Error，是表示服务器端错误的响应状态码。",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ant-design/pro-blocks/tree/master/Exception500"
+    "url": "https://github.com/rodchen-king/middle-stage-front-block/tree/master/Exception500"
   },
   "license": "MIT",
   "main": "src/index.js",
