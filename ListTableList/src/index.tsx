@@ -93,7 +93,7 @@ class TableList extends Component<TableListProps, TableListState> {
 
   columns: StandardTableColumnProps[] = [
     {
-      title: '规则名称',
+      title: '规则名称123',
       dataIndex: 'name',
     },
     {

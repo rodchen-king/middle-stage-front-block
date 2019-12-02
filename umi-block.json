@@ -347,7 +347,7 @@
       "previewUrl": "https://preview.pro.ant.design/list/search/projects"
     },
     {
-      "name": "查询表格",
+      "name": "查询表格陈子龙",
       "key": "ListTableList",
       "description": "一个标准的表格增删改查页面，可以派生出百分之八十的后台页面。",
       "url": "https://github.com/ant-design/pro-blocks/tree/master/ListTableList",
