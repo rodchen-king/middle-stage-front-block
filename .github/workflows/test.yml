@@ -1,0 +1,33 @@
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@master
+
+      - name: install
+        run: npm install
+
+      - name: lint
+        run: npm run lint
+
+  test-js:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: clone
+        run: git clone https://github.com/ant-design/ant-design-pro.git  --depth=1
+
+      - name: install
+        run: cd ant-design-pro && npm install
+
+      - name: fetch
+        run: cd ant-design-pro && npm run fetch:blocks --js
+
+      - name: lint:fix
+        run: cd ant-design-pro && npm run lint:fix
+
+      - name: lint
+        run: cd ant-design-pro && npm run lint
