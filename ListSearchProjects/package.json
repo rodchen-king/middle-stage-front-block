@@ -4,7 +4,7 @@
   "description": "常用于陈列某一主题下的大量条目，并提供丰富的数据筛选功能帮助用户匹配出需要的数据自己。",
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/umi-blocks/ant-design-pro/searchlistprojects"
+    "url": "https://github.com/umijs/umi-blocks/rodchen-king/searchlistprojects"
   },
   "license": "ISC",
   "main": "src/index.js",

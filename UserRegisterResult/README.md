@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/userregisterresult
+# @umi-blocks/rodchen-king/userregisterresult
 
 UserRegisterResult
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/UserRegisterResult
+umi block add rodchen-king/UserRegisterResult
 ```
 
 ## SNAPSHOT

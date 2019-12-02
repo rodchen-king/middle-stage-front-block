@@ -4,7 +4,7 @@
   "description": "详情页可以向用户展示一个对象完整的描述信息,并且可以对一个对象进行编辑操作。",
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/umi-blocks/ant-design-pro/basicprofile"
+    "url": "https://github.com/umijs/umi-blocks/rodchen-king/basicprofile"
   },
   "license": "ISC",
   "main": "src/index.js",

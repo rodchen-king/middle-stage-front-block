@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/basiclist
+# @umi-blocks/rodchen-king/basiclist
 
 BasicList
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/basiclist
+umi block add rodchen-king/basiclist
 ```
 
 ## SNAPSHOT

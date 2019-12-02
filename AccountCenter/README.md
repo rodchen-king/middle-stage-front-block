@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/accountcenter
+# @umi-blocks/rodchen-king/accountcenter
 
 AccountCenter
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/AccountCenter
+umi block add rodchen-king/AccountCenter
 ```
 
 ## SNAPSHOT

@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/searchlistapplications
+# @umi-blocks/rodchen-king/searchlistapplications
 
 SearchListApplications
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/searchlistapplications
+umi block add rodchen-king/searchlistapplications
 ```
 
 ## SNAPSHOT

@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/advancedform
+# @umi-blocks/rodchen-king/advancedform
 
 AdvancedForm
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/advancedform
+umi block add rodchen-king/advancedform
 ```
 
 ## SNAPSHOT

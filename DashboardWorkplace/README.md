@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/workplace
+# @umi-blocks/rodchen-king/workplace
 
 Workplace
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/Workplace
+umi block add rodchen-king/Workplace
 ```
 
 ## SNAPSHOT

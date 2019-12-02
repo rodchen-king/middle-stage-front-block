@@ -3,7 +3,7 @@ export default {
     [
       'umi-plugin-block-dev',
       {
-        layout: 'ant-design-pro',
+        layout: 'rodchen-king',
         menu: {
           name: '主页',
           icon: 'home',

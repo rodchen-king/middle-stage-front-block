@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/analysis
+# @umi-blocks/rodchen-king/analysis
 
 Analysis
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/analysis
+umi block add rodchen-king/analysis
 ```
 
 ## SNAPSHOT

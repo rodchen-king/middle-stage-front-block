@@ -38,8 +38,8 @@ jobs:
       - task: NodeTool@0
         inputs:
           versionSpec: '11.x'
-      - script: git clone https://github.com/ant-design/ant-design-pro.git  --depth=1
-      - script: cd ant-design-pro
+      - script: git clone https://github.com/ant-design/rodchen-king.git  --depth=1
+      - script: cd rodchen-king
       - script: npm install
         displayName: install
       - script: npm run fetch:blocks

@@ -4,7 +4,7 @@
   "description": "一个基本多标签页面，用于展示搜索列表。",
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/umi-blocks/ant-design-pro/searchlistapplications"
+    "url": "https://github.com/umijs/umi-blocks/rodchen-king/searchlistapplications"
   },
   "license": "ISC",
   "main": "src/index.js",

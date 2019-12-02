@@ -6,7 +6,7 @@
 
 Umi 块的 Ant Design Pro。
 
-> [Ant Design Pro V4](https://github.com/ant-design/ant-design-pro/issues/3143)的官方区块
+> [Ant Design Pro V4](https://github.com/ant-design/rodchen-king/issues/3143)的官方区块
 
 ## 用法
 

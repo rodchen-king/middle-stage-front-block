@@ -4,7 +4,7 @@
   "description": "一个空白的页面，一切都从这里开始！",
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/umi-blocks/ant-design-pro/empty"
+    "url": "https://github.com/umijs/umi-blocks/rodchen-king/empty"
   },
   "license": "ISC",
   "main": "src/index.js",

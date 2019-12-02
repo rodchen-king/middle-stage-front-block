@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/tablelist
+# @umi-blocks/rodchen-king/tablelist
 
 TableList
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/TableList
+umi block add rodchen-king/TableList
 ```
 
 ## SNAPSHOT

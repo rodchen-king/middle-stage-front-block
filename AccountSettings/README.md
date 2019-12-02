@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/accountsettings
+# @umi-blocks/rodchen-king/accountsettings
 
 AccountSettings
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/AccountSettings
+umi block add rodchen-king/AccountSettings
 ```
 
 ## SNAPSHOT

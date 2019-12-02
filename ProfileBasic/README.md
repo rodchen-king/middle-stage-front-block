@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/basicprofile
+# @umi-blocks/rodchen-king/basicprofile
 
 BasicProfile
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/basicprofile
+umi block add rodchen-king/basicprofile
 ```
 
 ## SNAPSHOT

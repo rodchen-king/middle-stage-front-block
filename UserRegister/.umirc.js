@@ -3,7 +3,7 @@ export default {
     [
       'umi-plugin-block-dev',
       {
-        layout: 'ant-design-pro-user',
+        layout: 'rodchen-king-user',
       },
     ],
     [

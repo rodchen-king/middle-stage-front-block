@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/exception404
+# @umi-blocks/rodchen-king/exception404
 
 Exception404
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/exception404
+umi block add rodchen-king/exception404
 ```
 
 ## SNAPSHOT

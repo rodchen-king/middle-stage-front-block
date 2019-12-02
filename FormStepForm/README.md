@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/stepform
+# @umi-blocks/rodchen-king/stepform
 
 StepForm
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/stepform
+umi block add rodchen-king/stepform
 ```
 
 ## SNAPSHOT

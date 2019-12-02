@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/resultsuccess
+# @umi-blocks/rodchen-king/resultsuccess
 
 ResultSuccess
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/resultsuccess
+umi block add rodchen-king/resultsuccess
 ```
 
 ## SNAPSHOT

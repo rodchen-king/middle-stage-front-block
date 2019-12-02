@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/cardlist
+# @umi-blocks/rodchen-king/cardlist
 
 CardList
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/cardlist
+umi block add rodchen-king/cardlist
 ```
 
 ## SNAPSHOT

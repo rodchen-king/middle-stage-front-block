@@ -4,7 +4,7 @@
   "description": "用户注册是使用，用于填写基本的账号信息。",
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/umi-blocks/ant-design-pro/userregister"
+    "url": "https://github.com/umijs/umi-blocks/rodchen-king/userregister"
   },
   "license": "MIT",
   "main": "src/index.js",

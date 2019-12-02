@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/exception500
+# @umi-blocks/rodchen-king/exception500
 
 Exception500
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/exception500
+umi block add rodchen-king/exception500
 ```
 
 ## SNAPSHOT

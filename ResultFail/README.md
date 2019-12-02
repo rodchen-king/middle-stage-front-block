@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/resulterror
+# @umi-blocks/rodchen-king/resulterror
 
 ResultError
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/resulterror
+umi block add rodchen-king/resulterror
 ```
 
 ## SNAPSHOT

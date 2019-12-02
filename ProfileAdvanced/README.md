@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/advancedprofile
+# @umi-blocks/rodchen-king/advancedprofile
 
 AdvancedProfile
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/advancedprofile
+umi block add rodchen-king/advancedprofile
 ```
 
 ## SNAPSHOT

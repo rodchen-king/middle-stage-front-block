@@ -18,16 +18,16 @@ jobs:
 
     steps:
       - name: clone
-        run: git clone https://github.com/ant-design/ant-design-pro.git  --depth=1
+        run: git clone https://github.com/ant-design/rodchen-king.git  --depth=1
 
       - name: install
-        run: cd ant-design-pro && npm install
+        run: cd rodchen-king && npm install
 
       - name: fetch
-        run: cd ant-design-pro && npm run fetch:blocks --js
+        run: cd rodchen-king && npm run fetch:blocks --js
 
       - name: lint:fix
-        run: cd ant-design-pro && npm run lint:fix
+        run: cd rodchen-king && npm run lint:fix
 
       - name: lint
-        run: cd ant-design-pro && npm run lint
+        run: cd rodchen-king && npm run lint

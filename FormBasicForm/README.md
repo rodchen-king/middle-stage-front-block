@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/basicform
+# @umi-blocks/rodchen-king/basicform
 
 BasicForm
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/basicform
+umi block add rodchen-king/basicform
 ```
 
 ## SNAPSHOT

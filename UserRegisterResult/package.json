@@ -4,7 +4,7 @@
   "description": "用于展示注册的结果。",
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/umi-blocks/ant-design-pro/userregisterresult"
+    "url": "https://github.com/umijs/umi-blocks/rodchen-king/userregisterresult"
   },
   "license": "MIT",
   "main": "src/index.js",

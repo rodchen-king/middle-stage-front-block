@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/monitor
+# @umi-blocks/rodchen-king/monitor
 
 Monitor
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/monitor
+umi block add rodchen-king/monitor
 ```
 
 ## SNAPSHOT

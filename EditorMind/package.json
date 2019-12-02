@@ -4,7 +4,7 @@
   "description": "脑图是表达发散性思维的有效工具，它简单却又很有效，是一种非常实用展示工具。",
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/umi-blocks/ant-design-pro/flow"
+    "url": "https://github.com/umijs/umi-blocks/rodchen-king/flow"
   },
   "license": "ISC",
   "main": "src/index.js",

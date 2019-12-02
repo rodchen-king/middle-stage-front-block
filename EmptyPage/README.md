@@ -1,11 +1,11 @@
-# @umi-blocks/ant-design-pro/flow
+# @umi-blocks/rodchen-king/flow
 
 flow
 
 ## Usage
 
 ```sh
-umi block add ant-design-pro/flow
+umi block add rodchen-king/flow
 ```
 
 ## SNAPSHOT
